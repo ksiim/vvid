@@ -49,6 +49,7 @@ Thumbs.db
 *.wmv
 
 # Virtual environment
+.vscode
 venv/
 Практическое занятие №1/Practice1_8.ipynb
 Практическое занятие №1/Practice1_7.ipynb
